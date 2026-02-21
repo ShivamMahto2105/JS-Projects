@@ -4,7 +4,7 @@ This is a simple web project that displays the current date and time dynamically
 
 ## Preview
 
-![Preview of Simple Date & Time](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/5%20Digital%20Clock/Preview.png)  
+![Preview of Simple Date & Time](https://github.com/ShivamMahto2105/JS-Projects/blob/main/1%20Digital%20Clock/Preview.png)  
 *Screenshot of the date and time display*
 
 ## Features

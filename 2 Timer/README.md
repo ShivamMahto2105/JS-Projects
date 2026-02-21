@@ -6,8 +6,7 @@ This is a simple web project that displays a functional stopwatch with start, st
 
 ## Preview
 
-![Preview of Stopwatch Timer](https://your-preview-image-link-here.png)  
-*Screenshot of the stopwatch timer interface*
+![Preview of Stopwatch Timer](https://github.com/ShivamMahto2105/JS-Projects/blob/main/2%20Timer/Preview.png)  
 
 ---
 

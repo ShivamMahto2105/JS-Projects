@@ -14,9 +14,7 @@ The goal is to strengthen core JavaScript concepts, improve problem-solving skil
 
 A simple web project that displays the current date and time dynamically on a clean interface.  
 The time updates every second, providing a real-time clock experience.
-
-🔗 **Project Link:**  
-👉 https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/5%20Digital%20Clock
+👉 [View Project](https://github.com/ShivamMahto2105/JS-Projects/tree/main/1%20Digital%20Clock)
 
 #### ✨ Features
 - Real-time digital clock
@@ -30,9 +28,7 @@ The time updates every second, providing a real-time clock experience.
 ### 2️⃣ ⏱ Stopwatch / Timer App
 
 A fully functional stopwatch built using JavaScript with start, stop, reset, and save-time features.
-
-🔗 **Project Link:**  
-👉 https://github.com/ShivamMahto2105/JavaScript-Mini-Projects/tree/main/Stopwatch-Timer
+👉 [View Project](https://github.com/ShivamMahto2105/JS-Projects/tree/main/2%20Timer)
 
 #### ✨ Features
 - Start the timer
